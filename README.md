@@ -1,5 +1,7 @@
 # NotePad
-simple Notepad  application using java swing based GUI 
+simple Notepad  application using java swing based GUI,
+
+IDE used-->Intellij
 
 
 
